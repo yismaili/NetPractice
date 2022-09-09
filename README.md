@@ -32,3 +32,20 @@ A 32-bit IP address uniquely identifies a single device on an IP network. The 32
 Because binary is challenging, we convert each octet so they are expressed in dot decimal. This results in the characteristic dotted decimal format for IP addresses—for example, 172.16.254.1. The range of values in decimal is 0 to 255 because that represents 00000000 to 11111111 in binary.
 
 <img width="917" alt="Screen Shot 2022-09-09 at 4 07 01 PM" src="https://user-images.githubusercontent.com/69278312/189382567-52f9f9d3-9203-4409-bbe4-2e59b7a435f2.png">
+
+# IP Address Classes and Subnet Masks
+
+A Class A subnet mask reflects the network portion in the first octet and leaves octets 2, 3, and 4 for the network manager to divide into hosts and subnets as needed. Class A is for networks with more than 65,536 hosts.
+
+A Class B subnet mask claims the first two octets for the network, leaving the remaining part of the address, the 16 bits of octets 3 and 4, for the subnet and host part. Class B is for networks with 256 to 65,534 hosts.
+
+In a Class C subnet mask, the network portion is the first three octets with the hosts and subnets in just the remaining 8 bits of octet 4. Class C is for smaller networks with fewer than 254 hosts.
+
+Class A, B, and C networks have natural masks, or default subnet masks:
+
+Class A: 255.0.0.0
+Class B: 255.255.0.0
+Class C: 255.255.255.0
+You can determine the number and type of IP addresses any given local network requires based on its default subnet mask.
+
+An example of Class A IP address and subnet mask would be the Class A default submask of 255.0.0.0 and an IP address of 10.20.12.2.
