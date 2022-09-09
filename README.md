@@ -66,4 +66,7 @@ Use a HEX Subnet Calculator to calculate the first and last subnet addresses, in
 A simple IP Subnet Mask Calculator determines the smallest available corresponding subnet and subnet mask.
 A Subnet Range/Address Range Calculator provides start and end addresses.
 
+@ What is TCP & IP?
 
+
+TCP and IP are two separate computer network protocols. IP is the part that obtains the address to which data is sent. TCP is responsible for data delivery once that IP address has been found. It's possible to separate them, but there isn't really a point in making a difference between TCP and IP.
