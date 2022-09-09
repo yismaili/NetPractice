@@ -15,3 +15,18 @@ Wide Area Networks (WANs) connect networks in larger geographic areas, such as F
 
 ![download](https://user-images.githubusercontent.com/69278312/189350638-787f04fd-d05f-485c-ab02-59cc162c0b9e.png)
 
+# Subnet Mask Definition
+
+Every device has an IP address with two pieces: the client or host address and the server or network address. IP addresses are either configured by a DHCP server (Dynamic Host Configuration Protocol) or manually configured (static IP addresses). The subnet mask splits the IP address into the host and network addresses, thereby defining which part of the IP address belongs to the device and which part belongs to the network.
+
+![1_1KIknnLKXpXptCyVRf6KCQ](https://user-images.githubusercontent.com/69278312/189372521-5947ddd2-07d2-4333-b437-313a5b7bb443.png)
+
+# What is Subnet Mask
+
+A subnet mask is a 32-bit number created by setting host bits to all 0s and setting network bits to all 1s. In this way, the subnet mask separates the IP address into the network and host addresses.
+
+# IP Address and Subnet Mask
+
+A 32-bit IP address uniquely identifies a single device on an IP network. The 32 binary bits are divided into the host and network sections by the subnet mask but they are also broken into four 8-bit octets.
+
+Because binary is challenging, we convert each octet so they are expressed in dot decimal. This results in the characteristic dotted decimal format for IP addresses—for example, 172.16.254.1. The range of values in decimal is 0 to 255 because that represents 00000000 to 11111111 in binary.
