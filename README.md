@@ -49,3 +49,21 @@ Class C: 255.255.255.0
 You can determine the number and type of IP addresses any given local network requires based on its default subnet mask.
 
 An example of Class A IP address and subnet mask would be the Class A default submask of 255.0.0.0 and an IP address of 10.20.12.2.
+
+# Network Addressing
+
+The standard modern network prefix, used for both IPv6 and IPv4, is Classless Inter-Domain Routing (CIDR) notation
+<img width="687" alt="Screen Shot 2022-09-09 at 5 16 18 PM" src="https://user-images.githubusercontent.com/69278312/189395512-f4409fbc-1fbc-4036-b5bc-7a9e83196778.png"> 
+# What Is a Subnet Mask Calculator
+
+Here are some of the most common varieties of IP subnet mask calculator:
+
+A IPv6 IP Subnet Calculator maps hierarchical subnets.
+An IPv4/IPv6 Calculator/Converter is an IP mask calculator that supports IPv6 alternative and condensed formats. This network subnet calculator may also allow you to convert IP numbers from IPv4 to IPv6.
+An IPv4 CIDR Calculator is a subnet mask adjustment and Hex conversion tool.
+An IPv4 Wildcard Calculator reveals which portions of an IP address are available for examination by calculating the IP address wildcard mask.
+Use a HEX Subnet Calculator to calculate the first and last subnet addresses, including the hexadecimal notations of multicast addresses.
+A simple IP Subnet Mask Calculator determines the smallest available corresponding subnet and subnet mask.
+A Subnet Range/Address Range Calculator provides start and end addresses.
+
+
