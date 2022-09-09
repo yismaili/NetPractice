@@ -30,3 +30,5 @@ A subnet mask is a 32-bit number created by setting host bits to all 0s and sett
 A 32-bit IP address uniquely identifies a single device on an IP network. The 32 binary bits are divided into the host and network sections by the subnet mask but they are also broken into four 8-bit octets.
 
 Because binary is challenging, we convert each octet so they are expressed in dot decimal. This results in the characteristic dotted decimal format for IP addresses—for example, 172.16.254.1. The range of values in decimal is 0 to 255 because that represents 00000000 to 11111111 in binary.
+
+<img width="917" alt="Screen Shot 2022-09-09 at 4 07 01 PM" src="https://user-images.githubusercontent.com/69278312/189382567-52f9f9d3-9203-4409-bbe4-2e59b7a435f2.png">
