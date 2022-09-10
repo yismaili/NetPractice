@@ -68,6 +68,9 @@ Class A, B, and C networks have natural masks, or default subnet masks:
     Class A: 255.0.0.0
     Class B: 255.255.0.0
     Class C: 255.255.255.0
+    
+<img width="1266" alt="Screen Shot 2022-09-10 at 5 58 34 PM" src="https://user-images.githubusercontent.com/69278312/189493970-5b1fa24f-445d-4c3f-9423-e6fbd73c0341.png">
+
 You can determine the number and type of IP addresses any given local network requires based on its default subnet mask.
 
 An example of Class A IP address and subnet mask would be the Class A default submask of 255.0.0.0 and an IP address of 10.20.12.2.
@@ -78,15 +81,9 @@ The standard modern network prefix, used for both IPv6 and IPv4, is Classless In
 <img width="687" alt="Screen Shot 2022-09-09 at 5 16 18 PM" src="https://user-images.githubusercontent.com/69278312/189395512-f4409fbc-1fbc-4036-b5bc-7a9e83196778.png"> 
 # What Is a Subnet Mask Calculator
 
-Here are some of the most common varieties of IP subnet mask calculator:
+<img width="397" alt="Screen Shot 2022-09-10 at 6 04 32 PM" src="https://user-images.githubusercontent.com/69278312/189494075-14cbda86-c8d6-4845-b0cf-cd786b274fae.png">
 
-A IPv6 IP Subnet Calculator maps hierarchical subnets.
-An IPv4/IPv6 Calculator/Converter is an IP mask calculator that supports IPv6 alternative and condensed formats. This network subnet calculator may also allow you to convert IP numbers from IPv4 to IPv6.
-An IPv4 CIDR Calculator is a subnet mask adjustment and Hex conversion tool.
-An IPv4 Wildcard Calculator reveals which portions of an IP address are available for examination by calculating the IP address wildcard mask.
-Use a HEX Subnet Calculator to calculate the first and last subnet addresses, including the hexadecimal notations of multicast addresses.
-A simple IP Subnet Mask Calculator determines the smallest available corresponding subnet and subnet mask.
-A Subnet Range/Address Range Calculator provides start and end addresses.
+
 
 # What is TCP & IP?
 
