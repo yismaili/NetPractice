@@ -65,9 +65,9 @@ In a Class C subnet mask, the network portion is the first three octets with the
 
 Class A, B, and C networks have natural masks, or default subnet masks:
 
-Class A: 255.0.0.0
-Class B: 255.255.0.0
-Class C: 255.255.255.0
+    Class A: 255.0.0.0
+    Class B: 255.255.0.0
+    Class C: 255.255.255.0
 You can determine the number and type of IP addresses any given local network requires based on its default subnet mask.
 
 An example of Class A IP address and subnet mask would be the Class A default submask of 255.0.0.0 and an IP address of 10.20.12.2.
