@@ -34,7 +34,8 @@ The smallest and most basic type of network, a PAN is made up of a wireless mode
  
     VPN or Virtual Private Network :
  A virtual private network extends a private network across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running across the VPN may therefore benefit from the functionality, security, and management of the private network
- ![types-of-networking](https://user-images.githubusercontent.com/69278312/189484502-954a6d37-75be-4bf5-a400-79881549dbf8.jpg)
+ 
+   ![types-of-networking](https://user-images.githubusercontent.com/69278312/189484502-954a6d37-75be-4bf5-a400-79881549dbf8.jpg)
 
 # Subnet Mask Definition
 
