@@ -7,29 +7,32 @@ omputer networking as we know it today may be said to have gotten its start with
 # What is Networking
  A network consists of two or more computers that are linked in order to share resources (such as printers and CDs), exchange files, or allow electronic communications. The computers on a network may be linked through cables, telephone lines, radio waves, satellites, or infrared light beams.
  
-Two very common types of networks include:  
-    # LAN or Local Area Network : 
+# Two very common types of networks include:
+    LAN or Local Area Network : 
 A Local Area Network (LAN) is a network that is confined to a relatively small area. It is generally limited to a geographic area such as a writing lab, school, or building
-    # WAN or Wide Area Network :
-Wide Area Networks (WANs) connect networks in larger geographic areas, such as Florida, the United States, or the world. Dedicated transoceanic cabling or satellite uplinks may be used to connect this type of global network
-    # WLAN or Wireless Local Area Network :
+
+    WAN or Wide Area Network :
+A Wide Area Networks (WANs) connect networks in larger geographic areas, such as Florida, the United States, or the world. Dedicated transoceanic cabling or satellite uplinks may be used to connect this type of global network
+
+    WLAN or Wireless Local Area Network :
  wireless local area network (WLAN) is a wireless computer network that links two or more devices using wireless communication within a limited area such as a home, school, computer laboratory, or office building
 
-    # MAN or Metropolitan Area Network :
+    MAN or Metropolitan Area Network :
 A metropolitan area network is a computer network that interconnects users with computer resources in a geographic area or region larger than that covered by even a large local area network (LAN) but smaller than the area covered by a wide area network (WAN).
-    # CAN or Campus Area Network :
+
+    CAN or Campus Area Network :
 A campus area network is a computer network made up of an interconnection of local area networks (LANs) within a limited geographical area.
 
-    # SAN or Storage Area Network or System Area Network :
+    SAN or Storage Area Network or System Area Network :
 For storage area network, as a dedicated high-speed network that connects shared pools of storage devices to several servers, these types of networks don’t rely on a LAN or WAN. Instead, they move storage resources away from the network and place them into their own high-performance network
 
-    # PAN or Personal Area Network :
+    PAN or Personal Area Network :
 The smallest and most basic type of network, a PAN is made up of a wireless modem, a computer or two, phones, printers, tablets, etc., and revolves around one person in one building. These types of networks are typically found in small offices or residences, and are managed by one person or organization from a single device.
  
-    # EPN or Enterprise Private Network :
+    EPN or Enterprise Private Network :
  These types of networks are built and owned by businesses that want to securely connect its various locations to share computer resources
  
-    # VPN or Virtual Private Network :
+    VPN or Virtual Private Network :
  A virtual private network extends a private network across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running across the VPN may therefore benefit from the functionality, security, and management of the private network
  ![types-of-networking](https://user-images.githubusercontent.com/69278312/189484502-954a6d37-75be-4bf5-a400-79881549dbf8.jpg)
 
