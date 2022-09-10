@@ -79,7 +79,7 @@ An example of Class A IP address and subnet mask would be the Class A default su
 
 The standard modern network prefix, used for both IPv6 and IPv4, is Classless Inter-Domain Routing (CIDR) notation
 <img width="687" alt="Screen Shot 2022-09-09 at 5 16 18 PM" src="https://user-images.githubusercontent.com/69278312/189395512-f4409fbc-1fbc-4036-b5bc-7a9e83196778.png"> 
-# What Is a Subnet Mask Calculator
+# Subnet Mask Calculator
 
 <img width="397" alt="Screen Shot 2022-09-10 at 6 04 32 PM" src="https://user-images.githubusercontent.com/69278312/189494075-14cbda86-c8d6-4845-b0cf-cd786b274fae.png">
 
