@@ -83,6 +83,7 @@ The standard modern network prefix, used for both IPv6 and IPv4, is Classless In
 
 <img width="397" alt="Screen Shot 2022-09-10 at 6 04 32 PM" src="https://user-images.githubusercontent.com/69278312/189494075-14cbda86-c8d6-4845-b0cf-cd786b274fae.png">
 
+<img width="1096" alt="Screen Shot 2022-09-12 at 7 25 23 PM" src="https://user-images.githubusercontent.com/69278312/190853059-bd27874a-f78f-404e-9be4-021edfeff7c8.png">
 
 
 # What is TCP & IP?
